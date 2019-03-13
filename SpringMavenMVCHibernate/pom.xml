@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<properties>
-		<spring.version>4.1.1.RELEASE</spring.version>
+		<spring.version>4.3.18.RELEASE</spring.version>
 		<apache.tiles.version>3.0.3</apache.tiles.version>
 		<hibernate.version>4.3.5.Final</hibernate.version>
 		<org.aspectj-version>1.7.4</org.aspectj-version>
